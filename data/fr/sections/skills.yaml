@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: "/images/sections/skills/linux.webp"
+  summary: "J'utilise Linux (Ubuntu) comme système d'exploitation principal. Je suis capable d'écrire des scripts bash/shell."
+
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "J'utilise docker régulièrement, je peux déployer des environnements diverses. Docker est un logiciel libre, à mi-chemin entre la virtualisation applicative et l'automatisation."
+  url: "https://www.docker.com/"
+
+- name: pfSense
+  logo: "/images/sections/skills/pfsense.webp"
+  summary: "Je sais manipuler ce type de firewall avec des configurations avancées. pfSense est un routeur/pare-feu open source basé sur le système d'exploitation FreeBSD."
+  url: "https://www.pfsense.org/"
+
+- name: Nagios
+  logo: "/images/sections/skills/nagios.webp"
+  summary: "Je sais installer et configurer Nagios. Nagios est une application permettant la surveillance système et réseau."
+  url: "https://www.nagios.com/"
+
+- name: HUGO
+  logo: "/images/sections/skills/hugo.webp"
+  summary: "J'ai déjà mis en place plusieurs sites web via HUGO, en exemple ce portfolio et mon CV qui est également hebergé en ligne. The world’s fastest framework for building websites."
+  url: "https://gohugo.io/"
+
+- name: TIG
+  logo: "/images/sections/skills/grafana.webp"
+  summary: "J'ai eu l'occasion d'installer et appréhender la suite TIG => Telegraf, Influxdb, Grafana. Grafana est un logiciel libre sous licence Apache 2.0 qui permet la visualisation de données."
+  url: "https://grafana.com/"
+
+- name: Nextcloud
+  logo: "/images/sections/skills/nextcloud.webp"
+  summary: "J'ai pu appréhender Nextcloud dans le cadre professionnel. Logiciel libre, de site d'hébergement de fichiers et une plateforme de collaboration"
+  url: "https://nextcloud.com/"
+
+- name: ELK
+  logo: "/images/sections/skills/elk.webp"
+  summary: "J'ai découvert la suite ELK dans le cadre scolaire, je l'ai donc mis en place pour comprendre son fonctionnement. ELK est un acronyme pour trois projets en open source => Elasticsearch, Logstash et Kibana."
+  url: "https://www.elastic.co/fr/"
+
+- name: Element
+  logo: "/images/sections/skills/element.svg"
+  summary: "Suite aux besoins de mon entreprise, j'ai découvert l'installation d'un serveur de messagerie Matrix combiné à Element via docker-compose et Ansible. Application de chat sécurisée tout-en-un pour les équipes, les amis et les organisations."
+  url: "https://element.io/"
+
+- name: Git
+  logo: "/images/sections/skills/git.webp"
+  summary: "J'utilise actuellement GIT de façon basique, je sais travailler sur des branches classiques (Master). Git est un logiciel de gestion de versions décentralisé."
+  url: "https://git-scm.com/"

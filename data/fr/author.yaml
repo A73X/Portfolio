@@ -1,0 +1,18 @@
+# some information about you
+name: "Alexandre MALESCOT"
+nickname: "Alex"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Enchanté, moi c'est"
+image: "images/author/alex.webp"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "alexandre.malescot@gmail.com"
+  #phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - Je suis en alternance
+  - J'aime la cybersécurité
+  - Je travaille avec des projets open-source

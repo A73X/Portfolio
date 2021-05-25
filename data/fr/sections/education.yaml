@@ -1,0 +1,144 @@
+# section information
+section:
+  name: Etudes
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: EXPERT EN SÉCURITÉ DIGITALE
+  icon: fa-graduation-cap
+  timeframe: A venir 2021-2022
+  institution:
+    name: ASTON SQLI GROUP
+    url: "https://www.aston-ecole.com/"
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  publications: #(optional)
+  - title: Titre RNCP de niveau 7 - Bac+5
+    url: "https://www.service-public.fr/particuliers/vosdroits/F199"
+  - title: Formation préparant à la certification professionnelle ESD niveau 7 d’Aston Ecole informatique inscrite au RNCP Expert(e) en Sécurité Digitale
+    url: "https://www.aston-ecole.com/expert-en-securite-digitale/"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+
+- name: ADMINISTRATEUR SYSTÈMES, RÉSEAUX & CLOUD
+  icon: fa-graduation-cap
+  timeframe: En cours 2019-2021
+  institution:
+    name: ASTON SQLI GROUP
+    url: "https://www.aston-ecole.com/"
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  publications: #(optional)
+  - title: Titre RNCP de niveau 6 - Bac+4
+    url: "https://www.service-public.fr/particuliers/vosdroits/F199"
+  - title: Formation préparant à la Certification professionnelle de l’ADIP-IPI inscrite au RNCP Administrateur(trice) systèmes, réseaux et bases de données.
+    url: "https://www.aston-ecole.com/administrateur-systemes-reseaux-et-cloud/"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+
+- name: TECHNICIEN SYSTÈMES RÉSEAUX & SÉCURITÉ
+  icon: fa-graduation-cap
+  timeframe: Validé - 2018-2019
+  institution:
+    name: ASTON SQLI GROUP
+    url: "https://www.aston-ecole.com/"
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  publications: #(optional)
+  - title: Titre RNCP niveau 5 - Bac+2
+    url: "https://www.service-public.fr/particuliers/vosdroits/F199"
+  - title: Formation préparant à la Certification professionnelle de l’ADIP-IPI inscrite au RNCP – TECHNICIEN(E) SYSTEMES RESEAUX ET SECURITE
+    url: "https://www.aston-ecole.com/technicien-systemes-reseaux-et-securite/"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+
+- name: TECHNICIEN DE PROXIMITÉ INFORMATIQUE
+  icon: fa-graduation-cap
+  timeframe: Validé - 2017-2018
+  institution:
+    name: ASTON SQLI GROUP
+    url: "https://www.aston-ecole.com/"
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.6
+  #  outOf: 4
+  publications: #(optional)
+  - title: Titre RNCP de niveau 4 - Bac
+    url: "https://www.service-public.fr/particuliers/vosdroits/F199"
+  - title: Formation préparant à la Certification professionnelle de l’ADIP-IPI inscrite au RNCP – TECHNICIEN(NE) SUPPORT EN NUMÉRIQUE
+    url: "https://www.aston-ecole.com/technicien-de-proximite-informatique/"
+  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #  url: "#"
+
+#- name: B.Sc. in Computer Science & Engineering
+#  icon: fa-graduation-cap
+#  timeframe: 2012-2016
+#  institution:
+#    name: University of XYZ
+#    url: "#"
+#  grade: #(optional)
+#    scale: CGPA
+#    achieved: 3.5
+#    outOf: 4
+#  takenCourses: #(optional)
+#    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#    showGrades: true
+#    courses:
+#    - name: Data Structures and Algorithm
+#      achieved: 3.75
+#      outOf: 4
+#    - name: Network Security
+#      achieved: 3.80
+#      outOf: 4
+#    - name: Operating System
+#      achieved: 3.5
+#      outOf: 4
+#    - name: Artificial Intelligent
+#      achieved: 3.75
+#      outOf: 4
+#  publications: #(optional)
+#  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    url: "#"
+#  - title: Fusce eu augue ut odio porttitor pulvinar.
+#    url: "#"
+#  extracurricularActivities: #(optional)
+#  - In vitae facilisis est, eget porta sem.
+#  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#  - Duis sed massa feugiat, ornare justo et, aliquam est.
+#  - Pellentesque ut fringilla magna.
+#- name: Higher Secondary School Certificate
+#  icon: fa-university
+#  timeframe: 2010-2012
+#  institution:
+#    name: MST College of Science
+#    url: "#"
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 5
+#    outOf: 5
+#  extracurricularActivities: #(optional)
+#  - In vitae facilisis est, eget porta sem.
+#  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#  - Duis sed massa feugiat, ornare justo et, aliquam est.
+#  - Pellentesque ut fringilla magna.
+#- name: Secondary School Certificate
+#  icon: fa-school
+#  timeframe: 2005-2010
+#  institution:
+#    name: JK School of Science
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 4.5
+#    outOf: 5

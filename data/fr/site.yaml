@@ -1,0 +1,12 @@
+# Copyright Notice
+copyright: ITmader © 2020-2021 droits d'auteur.
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio et blog personnel.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: Curriculum Vitae
+  url: https://cv.itmader.ovh
+- name: Scrample
+  url: https://www.scrample.xyz/

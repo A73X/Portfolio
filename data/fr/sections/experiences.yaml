@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Luceor
+    url: "https://www.luceor.com"
+    location: Vélizy-Villacoublay
+    # company overview
+    overview: Équipementier européen basé à Vélizy-Villacoublay, Luceor est le pionnier de la technologie WiMesh permettant de connecter des applications stratégiques depuis 2005.
+  positions:
+  - designation: Administrateur / Support L3
+    start: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Administration de l’informatique interne à l’entreprise
+    - Formation de nos partenaires
+    - Support interne bureautique Luceor
+    - Prise en charge de toute la chaine SAV
+    - Développement d’outils de support
+
+
+- company:
+    name: Luceor
+    url: "https://www.luceor.com"
+    location: Vélizy-Villacoublay
+    # company overview
+    overview: Équipementier européen basé à Vélizy-Villacoublay, Luceor est le pionnier de la technologie WiMesh permettant de connecter des applications stratégiques depuis 2005.
+  positions:
+  - designation: Technicien support L3
+    start: Nov 2018
+    end: Dec 2019
+    responsibilities:
+    - Mise en place de plateforme de tests
+    - Gestion du SAV
+    - Assistance Avant-vente & PS
+    - Assistance production
+
+- company:
+    name: Helpline
+    url: "https://www.helpline.fr/"
+    location: Nanterre
+    overview: Leader européen de l'expérience utilisateur.
+  positions:
+  - designation: Technicien de proximité
+    start: Jan 2018
+    end: Sep 2018
+    responsibilities:
+    - Gestion de « backlog » de type incidents et demandes.
+    - Utilisation des consoles AD et SCCM.
+    - Traitement incidents hardware et software.
