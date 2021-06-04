@@ -63,5 +63,5 @@ skills:
 
 - name: Gitlab
   logo: "/images/sections/skills/gitlab.webp"
-  summary: "Suite aux mesures sanitaires que l'on connait, j'ai participer à l'installation d'un serveur Gitlab autohébergé. Cela dans le but de mettre à dispostion des développeurunes une plateforme d'intégration continue"
+  summary: "Suite aux mesures sanitaires que l'on connait, j'ai participer à l'installation d'un serveur Gitlab autohébergé. Cela dans le but de mettre à dispostion des développeurs une plateforme d'intégration continue"
   url: "https://about.gitlab.com/"
