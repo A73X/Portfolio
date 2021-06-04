@@ -31,6 +31,8 @@ buttons:
   filter: "multimedia"
 - name: Notifications
   filter: "notification"
+- name: Versioning
+  filter: "Versioning"
 
 # your projects
 projects:
@@ -100,3 +102,11 @@ projects:
   repo: https://github.com/gotify/server
   summary: Permet le déploiment d'un serveur pour l'envoi et la réception de messages, en temps réel par WebSocket.
   tags: ["notification","hobby"]
+
+- name: Gitea
+  logo: /images/sections/projects/gitea.webp
+  role: User
+  timeline: "Acheved"
+  repo: https://github.com/go-gitea/gitea
+  summary: L'objectif de ce projet est de créer le moyen le plus simple, le plus rapide pour mettre en place un service Git auto-hébergé.
+  tags: ["Versioning"]
