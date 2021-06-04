@@ -60,3 +60,8 @@ skills:
   logo: "/images/sections/skills/git.webp"
   summary: "J'utilise actuellement GIT de façon basique, je sais travailler sur des branches classiques (Master). Git est un logiciel de gestion de versions décentralisé."
   url: "https://git-scm.com/"
+
+- name: Gitlab
+  logo: "/images/sections/skills/gitlab.webp"
+  summary: "Suite aux mesures sanitaires que l'on connait, j'ai participer à l'installation d'un serveur Gitlab autohébergé. Cela dans le but de mettre à dispostion des développeurunes une plateforme d'intégration continue"
+  url: "https://about.gitlab.com/"
