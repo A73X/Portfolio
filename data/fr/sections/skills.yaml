@@ -12,9 +12,15 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
 - name: Linux
   logo: "/images/sections/skills/linux.webp"
   summary: "J'utilise Linux (Ubuntu) comme système d'exploitation principal. Je suis capable d'écrire des scripts bash/shell."
+
+- name: Ansible
+  logo: "/images/sections/skills/ansible.webp"
+  summary: "Souhaitant me rapprocher du monde DevOps, j'ai découvert la puissance d'Ansible. Je m'en sert maintenant pour automatiser mes déploiements et mes configurations."
+  url: "https://www.ansible.com/"
 
 - name: Docker
   logo: "/images/sections/skills/docker.svg"
